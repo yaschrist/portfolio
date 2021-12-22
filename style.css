@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@700&display=swap");
+
+body {
+  background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-tecnologia-roxa_79603-294.jpg?size=626&ext=jpg");
+  font-family: "Palanquin", sans-serif;
+}
+
+.container {
+  background: #eddcf0;
+  margin: 54px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px black;
+  color: "#1C1C1C";
+  padding: 80px;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+}
+
+.perfil {
+  display: flex;
+}
+
+.perfil-foto {
+  border-radius: 400px;
+  max-height: 200px;
+  box-shadow: 3px 3px 3px #3a0d41;
+}
+
+.titulo {
+  margin-left: 16px;
+}
+
+.titulo h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.titulo h3 {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.tema button {
+  align-self: flex-end;
+  font-size: 24px;
+  font-weight: 400px;
+  padding: 8px 16px;
+  background: #eddcf0;
+  border-radius: 100px;
+  box-shadow: 4px 2px 2px #3a0d41;
+  font-family: "Palanquin", sans-serif;
+}
+
+.logos-sociais {
+  border-radius: 400px;
+  max-height: 50px;
+  text-decoration: none;
+}
+
+
+.projetos {
+  display: flex;
+  flex-direction: column;
+  background: #9f63a9;
+  margin-top: 32px;
+  padding: 32px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px black;
+}
+
+.projetos-titulo {
+  list-style: none;
+  font-weight: 700px;
+  font-size: 36px;
+}
+
+.projetos-item {
+  list-style-type: none;
+  font-size: 24px;
+  font-weight: 400px;
+  line-height: 48px;
+  color: white;
+}
+
+.qrcode-text{
+  font-weight: 200px;
+  font-size: 20px;
+}
+
+.qrcode {
+    max-height: 300px; 
+}
+
+.formacao {
+    display: flex;
+    flex-direction: column;
+    background: #9f63a9;
+    margin-top: 32px;
+    padding: 32px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px black;
+  }
+  
+  .formacao-titulo {
+    list-style: none;
+    font-weight: 700px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .formacao-item {
+    list-style-type: none;
+    font-size: 24px;
+    font-weight: 400px;
+    line-height: 48px;
+    color: white;
+    text-align: center;
+  }
+  
+.dark .container {
+  background: #382e38;
+  color: white;
+}
+
+.dark button {
+  background: #382e38;
+  color: white;
+  border: 2px solid white;
+}
