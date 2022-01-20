@@ -77,6 +77,17 @@ body {
   font-size: 36px;
 }
 
+.linkpm{
+  text-decoration: none;
+  color: #eddcf0;
+}
+
+.legendapm{
+  color:#382e38;
+  font-style: italic;
+  text-decoration: none;
+}
+
 .projetos-item {
   list-style-type: none;
   font-size: 24px;
