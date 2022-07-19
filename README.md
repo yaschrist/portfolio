@@ -2,8 +2,8 @@
 
 <h1 align="center"> Hello, world! </h1>
 
-<p> This is my portfolio, a website which I created using HTML, CSS and JavaScript to show people my codings. It was created during "Imersão Dev" from Alura. </p>
-<p> Here you can see some of my projects and know more about me! </p>
+This is my portfolio, a website that I created using HTML, CSS, and JavaScript to show people my codings. It was created during "Imersão Dev" from Alura.
+<p> Here you can see some of my projects and know more about me!
 __________________________________________________________________________________________________________________________________________________
 <br>
 
